@@ -1,0 +1,11 @@
+﻿  StringIttTest.cpp
+  Generating Code...
+e:\avancerad c++\iterator\iterator\siterator.hpp(66): warning C4717: 'operator-': recursive on all control paths, function will cause runtime stack overflow
+  Compiling...
+  String.cpp
+e:\avancerad c++\iterator\iterator\string.cpp(34): warning C4018: '<': signed/unsigned mismatch
+e:\avancerad c++\iterator\iterator\string.cpp(127): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+e:\avancerad c++\iterator\iterator\string.cpp(182): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Iterator.vcxproj -> E:\Avancerad C++\Iterator\Debug\Iterator.exe
+  Iterator.vcxproj -> E:\Avancerad C++\Iterator\Debug\Iterator.pdb (Partial PDB)
